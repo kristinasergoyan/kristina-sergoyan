@@ -83,17 +83,17 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
     </td>
   </tr>
   <tr>
-    <th>CliftonStrengths (Fall 2018)</th>
+    <th>CliftonStrengths</th>
     <th>Other Skills</th>
  </tr>
  <tr>
    <td>
      <ol>
-        <li>Responsibility</li>
         <li>Learner</li>
-        <li>Discipline</li>
-        <li>Developer</li>
+        <li>Responsibility</li>
         <li>Achiever</li>
+        <li>Discipline</li>
+        <li>Intellection</li>
      </ol>
    </td>
    <td>
