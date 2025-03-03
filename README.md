@@ -28,6 +28,22 @@ Bachelor of Science Business Administration – Finance, June 2025
 <a name="skills"></a>
 <hr>
 
+### Upcoming Experience
+
+**Bluejay Capital Partners** – *Denver, Colorado*  
+**Private Equity Intern** (September 2024 – June 2025)  
+- Assisted in the process of sourcing deals and evaluated 20 potential investments.  
+- Researched industry trends to create investment presentations and presented to management.  
+- Built three financial models to help execute current M&A transactions.  
+
+### Professional Experience
+
+**Deloitte** – *Denver, Colorado*  
+**Risk & Financial Advisory Intern** (June 2024 – August 2024)  
+- Conducted internal and external audits for two clients, testing business processes and IT controls to ensure regulatory compliance, mitigate risks, and enhance operational efficiency.  
+- Interviewed client SMEs on control processes to identify areas of improvement and presented a slide deck of recommendations for improvement strategies to client leadership.  
+- Collaborated with cross-functional teams to identify project risks, develop mitigation strategies, and track progress against milestones.  
+
 ## Skills
 
 <table>
