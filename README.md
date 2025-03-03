@@ -41,9 +41,7 @@ Bachelor of Science Business Administration – Finance, June 2025
         <li>R</li>
         <li>Excel</li>
         <li>Microsoft SQL Server Management Studio</li>
-        <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
-       <li>PowerBI</li>
         <li>Trello</li>
       </ul>
     </td>
