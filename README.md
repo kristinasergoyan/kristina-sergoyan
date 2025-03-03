@@ -13,6 +13,9 @@
 ### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Finance, June 2025
 
+#### Courses
+- **Reiman Fund**: Managed a live portfolio worth **$500,000** with 15 other classmates into the **S&P 400**, managed stocks within the portfolio, presented stock pitches, and produced financial models on potential stock acquisitions.
+
 <ul>
 
 
