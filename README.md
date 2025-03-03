@@ -13,8 +13,9 @@
 ### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Finance, June 2025
 
-#### Courses
-- **Reiman Fund**: Managed a live portfolio worth **$500,000** with 15 other classmates into the **S&P 400**, managed stocks within the portfolio, presented stock pitches, and produced financial models on potential stock acquisitions.
+### Courses
+- **Reiman Fund**: Collaborated with 15 classmates to actively manage a **$500,000** portfolio benchmarked to the **S&P 400**. Conducted equity research, performed portfolio analysis, delivered stock pitches, and built financial models to evaluate potential acquisitions.
+- **Intro to Data Management**: Designed and optimized relational databases using **SQL** to analyze large datasets. Developed data-driven insights for **Uber**, identifying key variables influencing sales performance. Created interactive visualizations to present findings and support strategic decision-making.
 
 <ul>
 
