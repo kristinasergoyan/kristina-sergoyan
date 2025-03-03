@@ -62,11 +62,11 @@ Bachelor of Science Business Administration – Finance, June 2025
  <tr>
    <td>
      <ol>
-        <li>Learner</li>
-        <li>Responsibility</li>
+        <li>Futuristic</li>
+        <li>Woo</li>
+        <li>Communication</li>
+        <li>Competition</li>
         <li>Achiever</li>
-        <li>Discipline</li>
-        <li>Intellection</li>
      </ol>
    </td>
    <td>
