@@ -12,38 +12,13 @@
 
 ## Education
 ### University of Denver, Daniels College of Business
-Bachelor of Science Business Administration – Business Information and Analytics, June 2022
+Bachelor of Science Business Administration – Finance, June 2025
 
 <ul>
-  <li><b>Margery Reed Service Award</b>: This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
-  <li><b>ANDREW H. WOOD Award</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
-  <li><b>Daniels Award for Excellence</b>: This is awarded to a student who has made an outstanding contribution to the College and demonstrates the Daniels' values of leadership, ethical behavior, appreciation of diversity, and service to the community.</li>
-  <li><b>Outstanding Business Information and Analytics Undergraduate</b>: Awarded in recognition of work at Daniels within Business Information and Analytics.</li>
-</ul>
 
-<a name="DanielsDistinction"></a>
-#### Daniels Distinction Portfolio
-In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
-
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/163692219-efc3d673-751e-4734-8667-21a3aae17f44.jpg" height="460">
-      <br><i>Daniels Distinction Presentation April 2022</i>
-      </td>
-  </tr>
-</table>
-
-[<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](/DanielsDistinctionPortfolio/#top)
-[<img src="https://user-images.githubusercontent.com/91146906/163692713-13e3fdac-bef7-47f0-85d3-6c98086204cf.svg" height="35"/>](https://www.youtube.com/watch?v=Wo9jiR-w170)
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="profExp"></a>
-<hr>
 
 ## Jobs and Internships
-<i>See my [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)</i>
+<i>See my [LinkedIn](https://www.linkedin.com/in/kristinasergoyan/)</i>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
