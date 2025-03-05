@@ -1,4 +1,4 @@
-
+This project was to create a database, and data tables into SQL.
 												---LOCATION TABLE---
 CREATE TABLE LOCATION(
 LOCATION_ID INTEGER PRIMARY KEY NOT NULL UNIQUE,
