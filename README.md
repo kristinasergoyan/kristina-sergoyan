@@ -9,7 +9,7 @@
 <a name="education"></a>
 <hr>
 
-##:"I deliver complex financial analytics through experienced gained in M&A, FP&A, financial modeling looking to inspire creativity and advance financial acumen by contributing positive energy to high performing teams "
+## I deliver complex financial analytics through experienced gained in M&A, FP&A, financial modeling looking to inspire creativity and advance financial acumen by contributing positive energy to high performing teams "
 ## Education
 ### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Finance, June 2025
